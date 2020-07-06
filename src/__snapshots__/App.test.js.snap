@@ -1,0 +1,60 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Will take a snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <div
+      class=" bg-green p-1"
+    >
+      <div
+        class="justify-start container mx-auto"
+      >
+        <h1>
+          songlab
+        </h1>
+      </div>
+      <div
+        class=" justify-center container mx-auto"
+      />
+    </div>
+    <div
+      class="relative min-h-screen bg-black pt-8"
+    >
+      <div
+        class="container mx-auto"
+      >
+        <button
+          class="bg-green-lighter p-4 square center align-items "
+        >
+          Login with Spotify!
+        </button>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`renders correctly react-test-renderer 1`] = `
+<div>
+  <div
+    className="bg-green p-1"
+  >
+    <div
+      className="container mx-auto"
+    >
+      <h1>
+        songlab
+      </h1>
+    </div>
+  </div>
+  <div
+    className="relative min-h-screen bg-black pt-8"
+  >
+    <div
+      className="container mx-auto"
+    >
+      <LoginButton />
+    </div>
+  </div>
+</div>
+`;

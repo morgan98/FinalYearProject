@@ -1,0 +1,19 @@
+Welcome to Songlab! 
+
+This is an application that lets you create playlists using the Spotify API based on songs, artists, albums, 
+or even you own listening History! The power of Spotify's recommendation engine is in your hands!
+
+To begin just simply click on the login button below, using your Spotify™ account.
+
+There is three main parts to the app. 
+1. Seeds, the center piece of the application click the + button to start adding seeds which will be used
+to create the playlist of Recommendations. Albums, artists, songs, playlists, and your top artists and tracks
+can all be used to create a playlist.
+
+2. Song Values, Songs values are features identifed by Spotify's recommendation engine, you can use these
+values to adjust the output of the recommendation engine. E.g. if you want to a playlist made up more of
+songs that are less popular, move the popularity slide to the left.
+
+3. Playback, playback allows you to listen to the playlist you have generated. You can do that in two ways:
+Device Playback - selected one of your devices(e.g. phone) to instantly start listening to the playlist
+Save Playlist - Save the playlist to your Spotify™ account, for later listening

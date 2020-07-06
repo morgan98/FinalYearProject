@@ -1,0 +1,74 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Will take a snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="bg-white border-green p-4 rounded-r-full ml-2 border-8 border-600"
+  >
+    <h1
+      classname="font-mono"
+    >
+      Welcome to Songlab!
+    </h1>
+    <div
+      classname=" mb-56 justify-center p-56"
+    >
+      This is an app that will allow to get recommendations for Songs, albums, artists, and playlists on the Spotify API
+    </div>
+    <div
+      classname="mb-10 text-justify font-bold  py-40"
+    >
+      <h2>
+        instructions
+      </h2>
+    </div>
+    <div
+      classname="mb-10 text-justify  py-40"
+    >
+      <h3>
+        Seeds
+      </h3>
+    </div>
+    <div
+      classname=" mb-56 text-justify  p-24"
+    >
+       Seeds are center piece of the application. click the + button to start adding seeds which will be used to create the playlist of Recommendations. Albums, artists, songs, playlists, and your top artists and tracks 
+    </div>
+    <div
+      classname="mb-10 text-justify font-bold py-40"
+    >
+      <h3>
+        Song Values
+      </h3>
+    </div>
+    <div
+      classname=" mb-56 text-justify p-24"
+    >
+      features identifed by Spotify's recommendation engine, you can use these values to adjust the output of the recommendation engine. E.g. if you want to a playlist made up more of songs that are less popular, move the popularity slide to the left.
+    </div>
+    <div
+      classname="mb-10 text-justify font-bold py-40"
+    >
+      <h3
+        classname="font-menlo"
+      >
+        Playback
+      </h3>
+    </div>
+    <div
+      classname=" mb-56 text-justify p-24"
+    >
+      Playback allows you to listen to the playlist you have generated. You can do that in two ways: Device Playback - selected one of your devices(e.g. phone) to instantly start listening to the playlist Save Playlist - Save the playlist to your Spotify™ account, for later listening
+    </div>
+    <div
+      class=" w-full mb-10 p-10 "
+    >
+      <button
+        class="bg-green-lighter border-green border-8 border-100 p-4 square rounded-r-full "
+      >
+        Login With Spotify!
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;

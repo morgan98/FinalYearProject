@@ -1,0 +1,30 @@
+
+{  
+
+    "applicationTitle": "SongLab",
+    "seedsTitle": "Seeds",
+    "playbackTitle": "Playback",
+    "songValuesTitle": "Song Values",
+    "playlistTitle": "Generated Playlist",
+
+    "introHeadline":"Welcome to Songlab!",
+    "instructions":"instructions",
+    "introduction": "This is an app that will allow to get recommendations for Songs, albums, artists, and playlists on the Spotify API",
+    "seedsExplaination": " Seeds are center piece of the application. click the + button to start adding seeds which will be used to create the playlist of Recommendations. Albums, artists, songs, playlists, and your top artists and tracks ",
+    "songValuesExplaination": "features identifed by Spotify's recommendation engine, you can use these values to adjust the output of the recommendation engine. E.g. if you want to a playlist made up more of songs that are less popular, move the popularity slide to the left.",
+    "playbackExplaination": "Playback allows you to listen to the playlist you have generated. You can do that in two ways: Device Playback - selected one of your devices(e.g. phone) to instantly start listening to the playlist Save Playlist - Save the playlist to your Spotify™ account, for later listening",
+
+    "loginButtonText":"Login With Spotify!",
+
+    "SV1": "Accousticness",
+    "SV2": "Danceability",
+    "SV3":"Energy",
+    "SV4":"Instrumentalness",
+    "SV5":"Popularity",
+    "SV6":"Loudness",
+    "SV7":"Valance"
+}
+
+
+
+    

@@ -8,7 +8,7 @@ It is a web application that uses the Spotify Web API to create playlists of rec
 4. A selected Album
 5 A selected Playlist
 
-This application was created using React and Node JS and was written in JavaScript and JSX. Tailwind CSS was the CSS modules used.
+This application was created using React and Node JS and was written in JavaScript and JSX. Tailwind CSS was the CSS module used.
 This project recieved a 1:1 Grade! 
 
 Development of this project is more or less complete for the moment. I am currently working on a spirtual successor to this project called Mixtape(https://github.com/morgan98/mixtape). Mixtape will incorperate most of the features developed for this project, but is more focused on being a tool for creating Spotify playlists. I hope also hope to address some the shortcomings of this project, e.g. poor user experience on mobile devices with Mixtape.
